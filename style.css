@@ -112,7 +112,7 @@ header{
   .navbar{
     position: absolute;
     top: 100%;
-    right: -100%;
+    right: 2%;
     width: 270px;
     height: 29vh;
     background: var(--main-clr);
@@ -137,5 +137,5 @@ header{
   color: var(--txt-clr);
 }
 .navbar.open{
-  right: 2%;
+  right:100%;
 }
